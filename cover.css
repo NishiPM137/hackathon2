@@ -1,0 +1,17 @@
+.logo{
+    position: relative;
+    display:flex;
+    padding-bottom: 10px;
+   float: center;
+   margin-left: 140px;
+   margin-top: 0px;
+   width: 350px;
+   height: 350px;
+   overflow: hidden;
+   border-radius: 50%;
+}
+.content{
+    width: max-content;
+    height: max-content;
+    padding-top: -10px;
+}

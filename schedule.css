@@ -1,0 +1,8 @@
+.image{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row;
+    margin-left: 600px;
+    float: right;
+}
